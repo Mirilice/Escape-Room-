@@ -1,0 +1,22 @@
+body {
+    color: black; /* Texto claro */
+    font-family: 'Helvetica', sans-serif; /* Fonte mais moderna */
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #ff5733; /* Laranja escuro para o título */
+}
+
+p {
+    line-height: 1.6; /* Espaçamento entre linhas ligeiramente aumentado */
+}
+
+img.past3 {
+    padding: 0;
+    display: block;
+    margin-top: 20px;
+}
+
+

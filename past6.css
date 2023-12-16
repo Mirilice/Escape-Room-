@@ -1,0 +1,13 @@
+#escondido{
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+#escondido:hover{
+    opacity: 1;
+}
+footer{
+    bottom: 0;
+    position: fixed;
+    align-items: center;
+    text-align: center;
+}

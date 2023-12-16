@@ -1,0 +1,39 @@
+body {
+    background-color: #1c1c1c; /* Fundo escuro */
+    color: #b3b3b3; /* Texto cinza claro */
+    font-family: 'Gothic', sans-serif; /* Fonte mais sombria */
+    margin: 0;
+    padding: 20px;
+    text-align: center; /* Centralizar o conteúdo */
+}
+
+p {
+    line-height: 1.6;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+input[type="password"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #666; /* Borda cinza mais escura */
+    background-color: #1c1c1c;
+    color: #fff;
+    width: 20%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #8b0000; /* Vermelho escuro para o botão */
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #ff0000; /* Vermelho mais claro no hover do botão */
+}

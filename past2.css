@@ -1,0 +1,32 @@
+body {
+    background-color: #f7f7f7; /* Fundo claro */
+    color: #333333; /* Texto escuro */
+    font-family: 'Georgia', serif; /* Fonte serifada para dar um toque mais sofisticado */
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #8b4513; /* Marrom escuro para títulos */
+}
+
+p {
+    line-height: 1.5; /* Espaçamento entre linhas */
+}
+
+input, button {
+    background-color: #8b4513; /* Marrom escuro para botões */
+    color: #ffffff; /* Texto branco nos botões */
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+input:focus {
+    outline: none; /* Remover a borda de foco */
+}
+
+button:hover {
+    background-color: #6a3a10; /* Marrom mais escuro quando o botão é hover */
+}
