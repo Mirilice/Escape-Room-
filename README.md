@@ -1,2 +1,2 @@
 # Escape-Room-
-Em desenvolvimento. Aceito sugestões
+Em desenvolvimento, ainda está bagunçado. Aceito sugestões.
